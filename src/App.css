@@ -30,3 +30,8 @@
 .btn:active {
   box-shadow: inset 2px 2px 5px 0 rgba(50, 50, 50, 0.75);
 }
+
+.description {
+  font-size: 20px;
+  font-weight: bold;
+}
